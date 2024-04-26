@@ -24,5 +24,3 @@ Our comprehensive report summarizes the approach undertaken, including the ratio
 - **models**: Contains saved model checkpoints and evaluation metrics.
 - **reports**: Contains the project report summarizing the approach and results.
 
-## Getting Started
-1. Clone the repository:
